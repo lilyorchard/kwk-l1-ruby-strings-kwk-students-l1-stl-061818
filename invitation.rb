@@ -1,4 +1,8 @@
-def invitation
+guest_name = "Hermione"
+party_name = "Halloween"
+date = ""
+time =
+
 puts "Dear #{guest_name},
 
 You are cordially invited to the BEST #{party_name} Party Ever on #{date} at #{time}. Please RSVP no later than October 30.
